@@ -6,7 +6,8 @@ Hugging Face is a popular open-source platform that provides state-of-the-art na
 Features:
 
     1) Transformers Installation and Pipelines:
-        Easily install Hugging Face Transformers library and set up pipelines for common NLP tasks such as text classification, named entity recognition, and sentiment analysis.
+        Easily install Hugging Face Transformers library and set up pipelines for common NLP tasks such as 
+        text classification, named entity recognition, and sentiment analysis.
         Intuitive and straightforward APIs for quick implementation of transformer-based models.
 
     2) Image Classification:
