@@ -3,16 +3,24 @@
 Introduction to Hugging Face
 The Hugging Face project is an interactive and educational platform designed to explore the capabilities of the Hugging Face libraries and models.
 Hugging Face is a popular open-source platform that provides state-of-the-art natural language processing (NLP) models and tools. 
-This project serves as a hands-on guide for developers and researchers who want to leverage the power of Hugging Face in their own applications and research projects.
 Features:
 
-    Interactive Demos: Explore interactive demos showcasing various Hugging Face models and their applications in NLP tasks such as text generation, sentiment analysis, and language translation.
+    1) Transformers Installation and Pipelines:
+        Easily install Hugging Face Transformers library and set up pipelines for common NLP tasks such as text classification, named entity recognition, and sentiment analysis.
+        Intuitive and straightforward APIs for quick implementation of transformer-based models.
 
-    Code Samples: Access a collection of code samples and tutorials demonstrating how to use Hugging Face libraries to implement common NLP tasks.
+    2) Image Classification:
+        Pre-trained models for image classification tasks, allowing you to classify images into various categories with high accuracy.
+        Simple interfaces for loading pre-trained models and making predictions on images.
 
-    Model Showcase: Discover a curated selection of pre-trained Hugging Face models, along with details about their architectures, training data, and performance metrics.
+    3) Image Segmentation:
+        Advanced image segmentation models for identifying and delineating objects within images.
+        Support for both semantic segmentation and instance segmentation tasks.
 
-    Community Contributions: Contribute your own examples, tutorials, and model evaluations to the project, fostering a collaborative learning environment.
+    4)  Text Summarization:
+        Summarize large documents or pieces of text into concise, informative summaries.
+        Extractive and abstractive summarization techniques for different use cases.
+
 
 # Contributing:
 
