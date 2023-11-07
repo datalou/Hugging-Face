@@ -21,6 +21,11 @@ Features:
     4)  Text Summarization:
         Summarize large documents or pieces of text into concise, informative summaries.
         Extractive and abstractive summarization techniques for different use cases.
+    5) Computer Vision: 
+        Example Code: Dive into our comprehensive collection of code examples, demonstrating various computer vision tasks like 
+        image classification, object detection, and image generation.
+        Tutorial: Step-by-step tutorials to guide you through implementing computer vision projects using Hugging Face's Transformers library.
+        Pre-trained Model: Explore pre-trained computer vision models provided by Hugging Face, ready for use in your projects.
 
 
 # Contributing:
